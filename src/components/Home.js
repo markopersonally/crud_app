@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 const Home = ({ list, handleDelete }) => {
 	return (
 		<div>
-			<h1 className='text-center'>Crud app</h1>
+			<h1 className='mt-5 text-center'>Crud app</h1>
 			<Table striped bordered hover variant='dark' size='lg'>
 				<thead>
 					<tr className='text-center'>

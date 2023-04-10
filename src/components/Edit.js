@@ -33,8 +33,7 @@ const Edit = ({ list, handleEditState }) => {
 		<div>
 			<Form
 				onSubmit={handleEdit}
-				className='d-grid gap-2'
-				style={{ margin: '15rem' }}
+				className='mt-5 d-grid gap-2'
 			>
 				<Form.Group className='mb-3' controlId='formName'>
 					<Form.Control

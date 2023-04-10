@@ -31,7 +31,7 @@ const AddPerson = ({ list }) => {
 
 	return (
 		<div className='container-fluid'>
-			<Form className='d-grid gap-2' style={{ margin: '15rem' }}>
+			<Form className='mt-5 d-grid gap-2'>
 				<Form.Group className='mb-3' controlId='formName'>
 					<Form.Control
 						type='text'
