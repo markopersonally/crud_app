@@ -1,24 +1,29 @@
-# CRUD APP in React
+# Simple CRUD app:
 
-Inspiration - https://www.youtube.com/watch?v=3IwGjihXHis&t=1853s
+Inspiration: https://www.youtube.com/watch?v=3IwGjihXHis&t=1853s
 
-My version - http://projekt3.mkpage.pl
+# Demo: [HERE](https://crud-app-pi-six.vercel.app/)
 
-## Technology
 
-- React,
-- React Router,
-- React Router-DOM,
-- CSS,
-- React Bootstrap,
-- UUID,
 
-### How use my code?
 
-In your programming edit code install:
 
-- npm install react-bootstrap bootstrap
-- npm install yup
-- npm install uuid
-- npm install react-router
-- npm install react-router-dom
+## Tech Stack
+
+**React**, **react-router**, **react-router-dom**,**Bootstrap**, **Uuid**, **Yup** 
+
+
+## Screenshots
+
+ISSUES -> IMG 
+
+## Installation
+
+How install this project?
+
+```bash
+    git clone https://github.com/markopersonally/crud_app.git
+    open your editor
+    npm install react-bootstrap bootstrap yup uuid react-router react-router-dom react-scripts
+```
+    
